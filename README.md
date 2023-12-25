@@ -7,12 +7,18 @@ A minimalistic configuration of [Lualine](https://github.com/nvim-lualine/lualin
 ---
 
 This is a *personal*<sup>TM</sup> flavour of the Neovim statusline.
+
 Colors are subtle, text is mostly plain.
+
 Favours the dark themes.
+
 Focus? On the code.
+
 Single file.
 
+
 ---
+
 
 ## Note!
 
@@ -134,6 +140,6 @@ This look is a blend of my personal statusline that I wrote (and will publish so
 ## Acknowledgements
 
 My gratitude goes towards:
-- the makers of Lualine: @nvim-lualine,
-- @rebelot for making the beautiful '**kanagawa**',
-- @nvim-web-devicons for the amazing icons.
+- the makers of Lualine: [nvim-lualine](https://github.com/nvim-lualine),
+- [rebelot](https://github.com/rebelot) for making the beautiful '**kanagawa**',
+- [nvim-web-devicons](https://github.com/nvim-tree) for the amazing icons.
